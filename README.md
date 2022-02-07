@@ -1,4 +1,3 @@
-# Spamer-sms
 
 
 # Install
